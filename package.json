@@ -1,0 +1,22 @@
+{
+  "name": "konishilee-slider",
+  "version": "1.0.0",
+  "description": "slider",
+  "main": "konishilee-slider.js",
+  "scripts": {
+    "test": "slider"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonishiLee/konishilee-slider.git"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "konishilee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonishiLee/konishilee-slider/issues"
+  },
+  "homepage": "https://github.com/KonishiLee/konishilee-slider#readme"
+}
